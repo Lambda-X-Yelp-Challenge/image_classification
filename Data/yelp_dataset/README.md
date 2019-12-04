@@ -1,0 +1,1 @@
+This directory is empty since `.json` files are included in the git ignore. I wanted the files stored locally, but did not want to burden github with several gigabytes of data. However, I kept the directory structure intact so that other users can make sense of my notebooks. 
